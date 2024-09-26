@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header h2 {
+  font-style: italic;
+  align-self: center;
+}
+
+button {
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+}
+
+.Todo p {
+  font-size: 16px;
+  color: lightgray;
+  text-decoration: line-through;
+}
